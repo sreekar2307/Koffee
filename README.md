@@ -1,2 +1,2 @@
 # Koffee
-Koffee lovers webpage 
+Coffee lovers webpage 
